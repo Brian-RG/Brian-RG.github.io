@@ -1,0 +1,19 @@
+body {
+  background-color: #99e6e6;
+  margin: 0;
+}
+
+#sup_bar{
+  background-color: #4d79ff;
+  top: 0;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  color: white;
+}
+
+td{
+  border-left: solid 1px #f00;
+  width:400px;
+  text-align: center;
+}
